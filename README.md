@@ -1,9 +1,9 @@
 README.TXT
 ==========
-Version: 1.0.0
-Author: Griffin Dennen
 Project Name: MA Pixel Address Tool
 ---------------------------------------------------
+Version: 1.0.0
+Author: Griffin Dennen
 
 Description:
 ------------
